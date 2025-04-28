@@ -34,7 +34,7 @@
   - [Microsoft ](https://www.credly.com/badges/7a1c65c3-2155-42e9-a832-ee54a90d2897/email)
     
 - <b>Introduction to Generative AI</b>  
-  - [Google Cloud Skills Boost]((https://www.cloudskillsboost.google/profile/badges))
+  - [Google Cloud Skills Boost](https://www.cloudskillsboost.google/profile/badges)
 
 
 
